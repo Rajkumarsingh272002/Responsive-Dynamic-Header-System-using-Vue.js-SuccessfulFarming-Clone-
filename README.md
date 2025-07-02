@@ -2,8 +2,16 @@
 Responsive Dynamic Header System using Vue.js (SuccessfulFarming Clone)
 🎯 Aim (उद्देश्य)
 To design and develop a dynamic, responsive, and interactive header navigation system using Vue.js 3 Composition API, that mimics real-world media websites like SuccessfulFarming.com. The header adapts based on device screen size and user interaction (like menu hover, search, and dropdown), offering a clean and intuitive navigation experience.
+
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+
+![Image](https://github.com/user-attachments/assets/3ee81bcf-15b6-4996-9fbe-f3c0816eef2c)
+![Image](https://github.com/user-attachments/assets/ef975b9e-9a01-4e71-8431-49329e591465)
+![Image](https://github.com/user-attachments/assets/ca450bdf-aac1-47f3-a5ca-0c0e337fd3ab)
+![Image](https://github.com/user-attachments/assets/96993eb7-d0bc-450d-a760-3c8e4888ee6b)
+![Image](https://github.com/user-attachments/assets/5ddf84c3-73b5-4b0f-a683-839be55aa67b)
+![Image](https://github.com/user-attachments/assets/b14106b2-f0c8-4413-8d8f-88edfc28bed3)
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 🛠️ Tools & Technologies Used

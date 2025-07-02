@@ -38,7 +38,7 @@ Mobile hamburger menu toggle system
 
 Full responsive behavior using CSS media queries
 
-Sub-menu open/close handling on mobile
+
 
 Conditional rendering and reactive state (ref, computed, v-if, v-show, v-model, etc.)
 
@@ -79,13 +79,25 @@ Handling responsiveness with CSS media queries
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-project name-: header_dynamic_project
+FRONTEND WORK:-
+0-Node.js Install  (अगर पहले से नहीं है)
+Node.js download : https://nodejs.org
+for check node install or not:- open cmd-command and type (node -v) then enter  .you will see v22.11.0
 
-Aim-:Aim:
-The aim of this project is to develop a dynamic and responsive header component using Vue.js. The header will update its content and styling based on user interaction, current route, or application state. This project demonstrates the use of Vue components, props, reactive data, and conditional rendering to build flexible and interactive user interface elements.
-
-उद्देश्य:
-इस प्रोजेक्ट का उद्देश्य Vue.js का उपयोग करके एक डाइनैमिक और रिस्पॉन्सिव हेडर कॉम्पोनेंट बनाना है। यह हेडर उपयोगकर्ता की क्रिया, वर्तमान रूट या एप्लिकेशन की स्थिति के आधार पर अपने कंटेंट और स्टाइल को अपडेट करेगा। इस प्रोजेक्ट के माध्यम से Vue के कॉम्पोनेंट्स, props, reactive data और conditional rendering के प्रयोग को दर्शाया गया है।
+1-download  project(Responsive Dynamic Header System using Vue.js (SuccessfulFarming Clone)) from github
+2-frontend=>
+  ---1- you open this vue.js3-project with  visual-studio-code .
+  ---2-opend cmd-command and type (cd ..) then enter like this you continue (cd ..) when till you will not found c:\ and in last you cmd-command look like this c:/
+  ---3-you cmd-command look like this: c:/ and now open visual-studio-code then goto file-menu click(open-folder) then select (project(Responsive Dynamic Header System using Vue.js (SuccessfulFarming Clone)) or (project(Responsive Dynamic Header System using Vue.js (SuccessfulFarming Clone))) as you have done download from github) 
+  --4- goto view-menu select (terminal) . from terminal you find path then you copy only just example like this:(\Users\Rajkumar\Desktop\project1\header_Dynamic_Project_mashroom\header_project_mashroom) . same as your computer do like this but your computer will be your own path you copy and you used own path, do not use my path ok.
+  --5-paste(\Users\Rajkumar\Desktop\project1\header_Dynamic_Project_mashroom\header_project_mashroom) into cmd.
+      same as you paste own path like this ok, not my path ok.
+     cmd:-
+       C:  \Users\Rajkumar\Desktop\project1\header_Dynamic_Project_mashroom\header_project_mashroom
+          then you do enter and agin type (npm run dev) in last 
+          C:  \Users\Rajkumar\Desktop\project1\header_Dynamic_Project_mashroom\header_project_mashroom>npm run dev
+          then enter your vue.js project will be run .
+          you type http://localhost:5173/ into browser.
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Used tools: Vue.js3 compoaition, CSS (Custom),html,javascript
